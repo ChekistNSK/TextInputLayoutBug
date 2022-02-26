@@ -1,0 +1,119 @@
+<resources>
+
+    <!-- Margins -->
+    <dimen name="dp0">0dp</dimen>
+    <dimen name="dp1">1dp</dimen>
+    <dimen name="dp2">2dp</dimen>
+    <dimen name="nano">4dp</dimen>
+    <dimen name="milli">6dp</dimen>
+    <dimen name="micro">8dp</dimen>
+    <dimen name="padding_toolbar_item">8dp</dimen>
+    <dimen name="little">10dp</dimen>
+    <dimen name="small">12dp</dimen>
+    <dimen name="low">14dp</dimen>
+    <dimen name="dp15">15dp</dimen>
+    <dimen name="medium">16dp</dimen>
+    <dimen name="large">18dp</dimen>
+    <dimen name="big">20dp</dimen>
+    <dimen name="huge">22dp</dimen>
+    <dimen name="high">24dp</dimen>
+    <dimen name="bolshoi">28dp</dimen>
+    <dimen name="great">30dp</dimen>
+    <dimen name="incredible">32dp</dimen>
+    <dimen name="epic">34dp</dimen>
+    <dimen name="enormous">40dp</dimen>
+    <dimen name="x_enormous">44dp</dimen>
+    <dimen name="mega_bolshoi">48dp</dimen>
+    <dimen name="giga_bolshoi">50dp</dimen>
+    <dimen name="big_as_f">54dp</dimen>
+    <dimen name="giant">64dp</dimen>
+    <dimen name="x_giant">74dp</dimen>
+
+    <dimen name="margin_popup_rate_hint">80dp</dimen>
+    <dimen name="margin_popup_package_hint">96dp</dimen>
+
+    <!-- Fonts -->
+    <dimen name="note_text">10sp</dimen>
+    <dimen name="tiny_text">11sp</dimen>
+    <dimen name="little_text">12sp</dimen>
+    <dimen name="little_plus_text">13sp</dimen>
+    <dimen name="small_text">14sp</dimen>
+    <dimen name="low_text">15sp</dimen>
+    <dimen name="medium_text">16sp</dimen>
+    <dimen name="intermediate_text">18sp</dimen>
+    <dimen name="big_text">20sp</dimen>
+    <dimen name="large_text">24sp</dimen>
+    <dimen name="enormous_text">30sp</dimen>
+
+    <!-- Views -->
+    <dimen name="shipping_icon_size">28dp</dimen>
+    <dimen name="height_text_input_edittext">48dp</dimen>
+    <dimen name="height_button">56dp</dimen>
+    <dimen name="height_button_small">32dp</dimen>
+    <dimen name="fab_normal_size">56dp</dimen>
+    <dimen name="view_height_20dp">20dp</dimen>
+    <dimen name="height_status_order_details">30dp</dimen>
+    <dimen name="view_height_35dp">35dp</dimen>
+    <dimen name="little_view_height">36dp</dimen>
+    <dimen name="view_height_step">44dp</dimen>
+    <dimen name="view_height_40dp">40dp</dimen>
+    <dimen name="small_view_height">50dp</dimen>
+    <dimen name="view_height_55dp">55dp</dimen>
+    <dimen name="view_height_60dp">60dp</dimen>
+    <dimen name="width_counter_view_field">80dp</dimen>
+    <dimen name="medium_view_height">90dp</dimen>
+    <dimen name="height_appbar_default">56dp</dimen>
+    <dimen name="height_appbar_medium">124dp</dimen>
+    <dimen name="height_appbar_big">140dp</dimen>
+    <dimen name="height_appbar_huge">280dp</dimen>
+    <dimen name="huge_image_width">140dp</dimen>
+    <dimen name="dotted_view_width">4dp</dimen>
+    <dimen name="calculator_bar_height">76dp</dimen>
+    <dimen name="office_gradient_background_height">112dp</dimen>
+    <dimen name="office_gradient_background_height_big">136dp</dimen>
+    <dimen name="size_image_close">28dp</dimen>
+
+
+    <!--Icons-->
+    <dimen name="micro_icon_size">6dp</dimen>
+    <dimen name="icon_size_7dp">6dp</dimen>
+    <dimen name="milli_icon_size">8dp</dimen>
+    <dimen name="icon_size_10dp">10dp</dimen>
+    <dimen name="little_icon_size">12dp</dimen>
+    <dimen name="icon_size_14dp">14dp</dimen>
+    <dimen name="icon_size_18dp">18dp</dimen>
+    <dimen name="low_icon_size">20dp</dimen>
+    <dimen name="icon_size_24dp">24dp</dimen>
+    <dimen name="icon_size_27dp">27dp</dimen>
+    <dimen name="icon_size_30dp">30dp</dimen>
+    <dimen name="medium_icon_size">32dp</dimen>
+    <dimen name="size_toolbar_icon">32dp</dimen>
+    <dimen name="big_icon_size">44dp</dimen>
+
+    <!--Corners-->
+    <dimen name="small_corner">4dp</dimen>
+    <dimen name="medium_corner">8dp</dimen>
+    <dimen name="big_corner">15dp</dimen>
+    <dimen name="radius_text_input_layout">4dp</dimen>
+    <dimen name="radius_background_draft">12dp</dimen>
+
+    <dimen name="bottom_sheet_round_corners">16dp</dimen>
+
+    <!--Content Coordinator -->
+    <dimen name="cc_max_height">244dp</dimen>
+    <dimen name="cc_min_height">144dp</dimen>
+
+    <dimen name="design_fab_size_mini">30dp</dimen>
+
+    <!-- Elevation -->
+    <dimen name="elevation_card">8dp</dimen>
+    <dimen name="small_elevation">4dp</dimen>
+
+    <!-- Animation -->
+    <integer name="duration_popup_hide">100</integer>
+
+    <dimen name="login_margin">32dp</dimen>
+    <dimen name="action_bar_title_big">34sp</dimen>
+    <dimen name="action_bar_title_default">20sp</dimen>
+    <dimen name="big_fixed_title_top_margin">32dp</dimen>
+</resources>

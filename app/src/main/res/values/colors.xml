@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1AB248</color>
+    <color name="colorPrimaryDark">#0F792F</color>
+    <color name="colorAccent">#1AB248</color>
+
+    <color name="notification_unread">#0D1AB248</color>
+
+    <color name="kelley_green">#1AB248</color>
+    <color name="white">#dfdfdf</color>
+    <color name="whiteDfDfDf">#dfdfdf</color>
+
+    <color name="true_white">#ffffff</color>
+    <color name="black">#1d1d1b</color>
+    <color name="grey">#C8C9CA</color>
+    <color name="grey_light">#F2F2F2</color>
+    <color name="grey_very_light">#F9F9F9</color>
+
+    <color name="cool_grey">#a6a9ab</color>
+
+    <color name="grey_line">#C4C4C4</color>
+    <color name="red">#FF6261</color>
+    <color name="yellow">#f2e500</color>
+    <color name="orange">#FDA729</color>
+    <color name="light_orange">#FCE4C0</color>
+
+    <color name="kelley_green_dark">#8C008237</color>
+
+    <color name="kelley_green_background">#171AB248</color>
+    <color name="kelley_green_pressed">#F3FBF6</color>
+
+    <color name="chat_input_message">#14FDA729</color>
+    <color name="chat_output_message">#141AB248</color>
+
+    <color name="text_soft_error">@color/red</color>
+    <color name="text_primary">#1d1d1b</color>
+    <color name="text_secondary">#8E9194</color>
+
+    <color name="background_grey">#F6F7F9</color>
+    <color name="background_edittext_disabled">#EFEFEF</color>
+</resources>
